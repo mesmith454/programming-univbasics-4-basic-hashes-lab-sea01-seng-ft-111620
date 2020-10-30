@@ -2,17 +2,16 @@ def new_hash
   {}
 end
 
-def my_hash
-  cats = {
+def my_hash 
+  {
     :snowshoe => "Nox"
-    :tabby => "Bubba"
   }
 end
 
 def pioneer
- hashyhash = {
+  {
    :name => "Grace Hopper"
- }
+  }
 end
 
 
